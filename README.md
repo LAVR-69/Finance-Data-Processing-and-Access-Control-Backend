@@ -133,10 +133,10 @@ mutation {
 ---
 
 ##Setup Instructions
+```
 
-1. Clone the repository:
+1. Clone the Repo
 
-```md
 ```bash
 git clone https://github.com/YOUR_USERNAME/Finance-Data-Processing-and-Access-Control-Backend.git
 cd Finance-Data-Processing-and-Access-Control-Backend
@@ -190,7 +190,7 @@ https://127.0.0.1:5000/graphql
 
 ---
 
-##Limitations
+## Limitations
 
 * No authentication system (JWT)
 * No pagination
