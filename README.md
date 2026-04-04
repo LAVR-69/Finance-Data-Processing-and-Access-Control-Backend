@@ -132,12 +132,11 @@ mutation {
 
 ---
 
-
 ##Setup Instructions
-
 
 1. Clone the repository:
 
+```md
 ```bash
 git clone https://github.com/YOUR_USERNAME/Finance-Data-Processing-and-Access-Control-Backend.git
 cd Finance-Data-Processing-and-Access-Control-Backend
