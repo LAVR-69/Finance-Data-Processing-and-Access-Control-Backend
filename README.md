@@ -30,9 +30,9 @@ It allows users to create, update, delete, and analyze financial data such as in
 
 ---
 
-## Example Queries
+## Queries
 
-### 🔹 Get Records
+### Get Records
 
 ```graphql
 {
@@ -132,7 +132,9 @@ mutation {
 
 ---
 
+
 ##Setup Instructions
+
 
 1. Clone the repository:
 
