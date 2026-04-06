@@ -130,15 +130,17 @@ mutation {
   }
 }
 ```
+
 ---
 
 ## Setup Instructions
-```
+
+
 
 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Finance-Data-Processing-and-Access-Control-Backend.git
+git clone https://github.com/LAVR-69/Finance-Data-Processing-and-Access-Control-Backend.git
 cd Finance-Data-Processing-and-Access-Control-Backend
 ```
 
